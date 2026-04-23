@@ -21,6 +21,15 @@
   </url>
 
   <url>
+    <loc>https://cuacvencion.org/programacion</loc>
+    <lastmod>2026-04-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cuacvencion.org/programacion"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cuacvencion.org/programacion"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
     <loc>https://cuacvencion.org/donde</loc>
     <lastmod>2026-03-25</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://cuacvencion.org/donde"/>
