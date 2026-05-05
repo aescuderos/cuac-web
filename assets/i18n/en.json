@@ -108,7 +108,7 @@
   "donde.transport.desc": "Piñuécar is well connected to Madrid. Here are your three options for getting here.",
   "donde.transport.car.title": "By car",
   "donde.transport.car.desc": "The exact address is C. Alta, 26, 28737 Piñuécar, Madrid (Albergue Nueva Tierra).",
-  "donde.transport.car.badge": "C. Alta, 26 · Piñuécar",
+  "donde.transport.car.badge": "Open route in Maps →",
   "donde.transport.bus.title": "By public transport",
   "donde.transport.bus.desc": "Depart from <strong>Plaza de Castilla interchange</strong> (Madrid). <br><br>🗓 <strong>Weekends:</strong> Line <strong>196</strong> goes direct to Piñuécar (~2 h, departure 9:05). <br>💼 <strong>Weekdays:</strong> Line <strong>191</strong> to Buitrago del Lozoya (~90 min), then transfer to <strong>191B</strong> to Piñuécar. <br><br>Operator: ALSA/CRTM.",
   "donde.transport.bus.badge": "Official schedules at CRTM.es",

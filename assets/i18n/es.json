@@ -108,7 +108,7 @@
   "donde.transport.desc": "Piñuécar está bien conectado con Madrid. Aquí tienes las tres opciones para llegar.",
   "donde.transport.car.title": "En coche",
   "donde.transport.car.desc": "La dirección exacta es C. Alta, 26, 28737 Piñuécar, Madrid (Albergue Nueva Tierra).",
-  "donde.transport.car.badge": "C. Alta, 26 · Piñuécar",
+  "donde.transport.car.badge": "Abrir ruta en Maps →",
   "donde.transport.bus.title": "En transporte público",
   "donde.transport.bus.desc": "Sal desde el <strong>Intercambiador de Plaza de Castilla</strong> (Madrid). <br><br>🗓 <strong>Fin de semana:</strong> Línea <strong>196</strong> directa a Piñuécar (~2 h, salida 9:05 h). <br>💼 <strong>Entre semana:</strong> Línea <strong>191</strong> hasta Buitrago del Lozoya (~90 min) y transbordo a la <strong>191B</strong> hasta Piñuécar. <br><br>Operador: ALSA/CRTM.",
   "donde.transport.bus.badge": "Horarios oficiales en CRTM.es",
